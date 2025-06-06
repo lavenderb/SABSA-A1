@@ -5944,27 +5944,27 @@ Could you suggest how the term 'Attractive' might be defined by the kingdom and 
       </folder>
       <element xsi:type="archimate:ArchimateDiagramModel" name="Context" id="id-1fd8e81c163f425eab4dce207c9d2e08">
         <child xsi:type="archimate:DiagramObject" id="id-f7d81217b0bc42f3b8dd1485b0e36bc5" targetConnections="id-b279f23ad97d4211a52e1c6643422d6d id-e802c377cc4648548dbf431f7ec26934" font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI" textPosition="1" imagePath="images/_ZibJcN2MEeu9JukZ2lDT3w.png" imagePosition="0" archimateElement="id-2ec70fe4e6c54dffb7245d54f0e4eff5">
-          <bounds x="356" y="37" width="120" height="55"/>
+          <bounds x="301" y="37" width="120" height="55"/>
           <feature name="deriveElementLineColor" value="false"/>
           <feature name="iconVisible" value="1"/>
           <feature name="imageSource" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2921c58dc45040c59fc71016764152b3" targetConnections="id-7db890b091bc4a1ba18652c551a7fc0d id-7aafc4e828174f198b45755288458ae9" font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI" textPosition="1" imagePosition="0" archimateElement="id-e6435a74c8424850923ec864f4e841b7">
-          <bounds x="356" y="117" width="120" height="55"/>
+          <bounds x="301" y="117" width="120" height="55"/>
           <feature name="deriveElementLineColor" value="false"/>
           <feature name="iconVisible" value="1"/>
           <feature name="imageSource" value="1"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-e802c377cc4648548dbf431f7ec26934" source="id-2921c58dc45040c59fc71016764152b3" target="id-f7d81217b0bc42f3b8dd1485b0e36bc5" archimateRelationship="id-6d203f52c71041869f55a541856d8313"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ec379989cc2d437b81001d5c7f6555ba" archimateElement="id-af1ad5fc776343ea9d5e9b5a1b22a7af">
-          <bounds x="62" y="225" width="810" height="331"/>
+          <bounds x="86" y="225" width="786" height="331"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-7db890b091bc4a1ba18652c551a7fc0d" source="id-ec379989cc2d437b81001d5c7f6555ba" target="id-2921c58dc45040c59fc71016764152b3" archimateRelationship="id-f38627ad76d242b696a63eec431cbdc7"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-20df2a182d63407e90cced84027fb945" source="id-ec379989cc2d437b81001d5c7f6555ba" target="id-c25bc5f3691a4b71ae8b0e06fb860ee3" archimateRelationship="id-b853d9baee6b4bc7aefdafd00da6556c"/>
           <child xsi:type="archimate:DiagramObject" id="id-b361324a6a2c4c3380803b9dcf3888b2" textPosition="1" archimateElement="id-14af160f4b3e46b1b2ff3aa965832c6d">
-            <bounds x="24" y="36" width="120" height="55"/>
+            <bounds x="18" y="36" width="120" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-c25bc5f3691a4b71ae8b0e06fb860ee3" targetConnections="id-20df2a182d63407e90cced84027fb945" font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" archimateElement="id-9c64d8b2a216490eb3cb44bb391c299f">
-            <bounds x="180" y="36" width="612" height="278"/>
+            <bounds x="156" y="36" width="612" height="278"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-a04dc2fd2cfe402d99f0cf1f06593aeb" source="id-c25bc5f3691a4b71ae8b0e06fb860ee3" target="id-6534efa2c8c04884b0ed6d5363e48ac3" archimateRelationship="id-d88190ca8ed44aeb98ff99ba3e475268"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-69503a6cdb2f4436a21b5f85b091282e" source="id-c25bc5f3691a4b71ae8b0e06fb860ee3" target="id-19e23d18e92844479f334adee40d9eff" archimateRelationship="id-2bc43bc5cafc465ba845c0f68abd9b18"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-5c2f4834fe914f50931220ff24e6e784" source="id-c25bc5f3691a4b71ae8b0e06fb860ee3" target="id-b857d14a000b4afe97c2d22f67a9c809" archimateRelationship="id-ddb725aadbce40a4a37792a25bee1f41"/>
@@ -6039,7 +6039,7 @@ Could you suggest how the term 'Attractive' might be defined by the kingdom and 
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-27430ce48c654bc998a9961446b7ff8b" textPosition="1" archimateElement="id-2161de98ddc941acbc7e81ecde7016a6">
-          <bounds x="182" y="117" width="120" height="55"/>
+          <bounds x="127" y="117" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-7aafc4e828174f198b45755288458ae9" source="id-27430ce48c654bc998a9961446b7ff8b" target="id-2921c58dc45040c59fc71016764152b3" archimateRelationship="id-5f3b12abfb9c460593d1c3e8c204c3d1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f3f8da970eb541968a94be8bdef7feeb" targetConnections="id-7fac18d8dd9f42318486fffb02cfca6c" textPosition="1" archimateElement="id-f41a91719e4f480c917430c382c18f5d">
@@ -6092,7 +6092,7 @@ Could you suggest how the term 'Attractive' might be defined by the kingdom and 
           <bounds x="63" y="698" width="120" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9a7879a36dd34f1d86c753a1f1e8c349" textAlignment="1" archimateElement="id-5b2a6d0988344a44ab23b5d1babdf1f7" type="1">
-          <bounds x="546" y="20" width="381" height="158"/>
+          <bounds x="491" y="20" width="381" height="158"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-a9712bd6f156404693a738cc9d901fae" source="id-9a7879a36dd34f1d86c753a1f1e8c349" target="id-3c5ae5b7eb34400989e11991824694f1" archimateRelationship="id-ac2c7c93e0854c4d8bd39babe74c40f1"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-269b0bbb9693425c853fe7dff8320725" source="id-9a7879a36dd34f1d86c753a1f1e8c349" target="id-56723e7087ff4d9ebdd00a6c92f450c7" archimateRelationship="id-060b2e27d9e64902a9613f074b7407d0"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-6a05c5c9500447708d0c1c7de000dc7f" source="id-9a7879a36dd34f1d86c753a1f1e8c349" target="id-725bda69362d4bd1982983b50a99f846" archimateRelationship="id-1be9eee34d6d499c8eefeb5e4cc3af6b"/>
@@ -6130,7 +6130,7 @@ Could you suggest how the term 'Attractive' might be defined by the kingdom and 
           <bounds x="444" y="622" width="103" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d7b58f1430d84ea3b5f5051ca0fa10e0" textAlignment="1" archimateElement="id-38eaa7209aff49918259374f8c1e490f" type="1">
-          <bounds x="919" y="374" width="763" height="190"/>
+          <bounds x="919" y="374" width="763" height="182"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-7fac18d8dd9f42318486fffb02cfca6c" source="id-d7b58f1430d84ea3b5f5051ca0fa10e0" target="id-f3f8da970eb541968a94be8bdef7feeb" archimateRelationship="id-88c32926cb2b4350bba2211ff537a8be"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-404d80f11fb543d5be99ba80cf959ece" source="id-d7b58f1430d84ea3b5f5051ca0fa10e0" target="id-2c7fcbbc0a4148a98bd1b7291f54d62b" archimateRelationship="id-a83a41d9c36e4603be2c17c8953e9ed7"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-e951d238fccb4f079311e5866146cec1" source="id-d7b58f1430d84ea3b5f5051ca0fa10e0" target="id-f5619920f3a74996b73155a0d528d722" archimateRelationship="id-21a7b7ca8f394743a2d7227bac8b8b48"/>
@@ -6203,37 +6203,37 @@ All Heads of Departments shown as SubDomains of Departments have the job title D
           <bounds x="22" y="19" width="751" height="755"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e63d3947dd6240fcb2af7e48691c0869" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-9541168d596d4f4fb77d07671631c3f7">
-          <bounds x="480" y="513" width="193" height="43"/>
+          <bounds x="480" y="460" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c04d7b0c0b2b4df4af5ba4bde79f5700" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-20131280dd5640ce9191ffa5e40d89e5">
-          <bounds x="104" y="101" width="193" height="43"/>
+          <bounds x="104" y="72" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7e7d974768ad4696a6e3a3b99523b0f6" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-f481bf96efc6452e998b9e73a831a878">
-          <bounds x="104" y="149" width="193" height="43"/>
+          <bounds x="104" y="120" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-861df2f4e3c3499898e7781f3baa1565" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-51dc201d2c2f4fbaa33ced405c817fd9">
-          <bounds x="480" y="461" width="193" height="43"/>
+          <bounds x="-208" y="307" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d64ee2cdb2dc4e02b70bb3c35ece84bf" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-208e795ba5af43a28a0eb0a10b7faf9c">
-          <bounds x="104" y="199" width="193" height="43"/>
+          <bounds x="104" y="170" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7d81cbf3a8ba4ff5937b9a9b6070c941" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-142d25a6886e4307879c04568dcad993">
-          <bounds x="104" y="249" width="193" height="43"/>
+          <bounds x="-208" y="248" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-0e21af165bad459e94c0d49f1e7a45b3" textPosition="1" imagePath="images/_c2suYO_nEeuJcPKRS19yTw.png" imagePosition="0" archimateElement="id-6d28388af6f74118abb58bfb755d9b46">
-          <bounds x="104" y="299" width="199" height="43"/>
+          <bounds x="101" y="225" width="199" height="43"/>
           <feature name="iconVisible" value="1"/>
           <feature name="imageSource" value="1"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
@@ -6244,7 +6244,7 @@ All Heads of Departments shown as SubDomains of Departments have the job title D
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6a0214d3b83c46c290ff6b7c41565194" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-f9a5ee2686eb4231a475f4c7b9ee703d">
-          <bounds x="480" y="120" width="193" height="43"/>
+          <bounds x="-208" y="454" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
@@ -6254,32 +6254,32 @@ All Heads of Departments shown as SubDomains of Departments have the job title D
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1a03b44fb7224892a9997e576611cec2" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-8ad838b709814651a5f4cf1f33f99ed6">
-          <bounds x="104" y="513" width="193" height="43"/>
+          <bounds x="-208" y="513" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-53cbadf05fec40fe853e5f9904c7a519" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-0dae43bf202645e7975400c81463b9ef">
-          <bounds x="107" y="51" width="193" height="43"/>
+          <bounds x="-191" y="53" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7a86ec3acdfa43a6bc87f311ea84386a" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-cf1fab7c64014ad68ec15d3317dcc2b2">
-          <bounds x="480" y="563" width="193" height="43"/>
+          <bounds x="480" y="120" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-5422994b4d36457e88adaa9c4aaa5b88" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-07bfed8f32f845219abba32fdd94e58c">
-          <bounds x="480" y="612" width="193" height="43"/>
+          <bounds x="480" y="514" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-194e35c098e24daa9e98b866ee7dbea3" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-833518642a0c4c8db56b187fac1912d2">
-          <bounds x="480" y="664" width="193" height="43"/>
+          <bounds x="480" y="566" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-eaa335515da040cb8f043e2348d7ae36" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-77328012b39141849e82c7da00f3db1f">
-          <bounds x="104" y="348" width="193" height="43"/>
+          <bounds x="104" y="277" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
         </child>
@@ -6391,7 +6391,7 @@ All Heads of Departments shown as SubDomains of Departments have the job title D
           <sourceConnection xsi:type="archimate:Connection" id="id-66bfd85e496641d5851f711ee88e8e31" textPosition="2" source="id-cbf0abaaa3f74770848edcc612ee5562" target="id-491483ddabc44b8e8b715c93bef67cb3" archimateRelationship="id-7923771422fc40a29bf31a338b059995"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-0d4cb8c8e74b4627a07b99a93d08b763" targetConnections="id-5d73cc49f0c043069ab35818500110d0" lineColor="#5c5c5c" fillColor="#ccccff" textPosition="1" imagePosition="0" archimateElement="id-833518642a0c4c8db56b187fac1912d2">
-          <bounds x="696" y="336" width="193" height="43"/>
+          <bounds x="660" y="331" width="193" height="43"/>
           <feature name="labelExpression" value="&lt;&lt;${property:stereotype}>>&#xD;&#xA;${name}"/>
           <feature name="iconVisible" value="1"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-71c2812ce12942338d514af2bdbfee1a" textPosition="2" source="id-0d4cb8c8e74b4627a07b99a93d08b763" target="id-9d2b6c42b3c74367bba06772347ea4ce" archimateRelationship="id-501d043074ba43b681193e3466b801a3">
@@ -6414,6 +6414,10 @@ All Heads of Departments shown as SubDomains of Departments have the job title D
           <sourceConnection xsi:type="archimate:Connection" id="id-6359e525f8f044f7845f37e22374771c" textPosition="2" source="id-9d2b6c42b3c74367bba06772347ea4ce" target="id-3612b8438c18469693163993b3f4f060" archimateRelationship="id-05e844e0d47749b9a7c702528eb81d35">
             <bendpoint startX="-48" startY="-104" endX="77" endY="102"/>
           </sourceConnection>
+        </child>
+        <child xsi:type="archimate:Group" id="id-de4c32fbefe74ef9b221a42c1f1eaef4" name="Exported as an Attribute Table" fontColor="#ffffff" textAlignment="1" fillColor="#0080c0" imagePath="images/_NLyS4EIXEfCUxZJWcfgH6g.png">
+          <bounds x="873" y="228" width="574" height="291"/>
+          <documentation>Created using utils\ExportMatrix.ajs</documentation>
         </child>
         <documentation>Create an Attributes Dependency Tree to show the dependency relationships between the Enterprise Attributes defined in Workshop A1-3 Part 1 and the new Attributes defined in Task two above.</documentation>
       </element>
